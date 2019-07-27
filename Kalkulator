@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+  <h1>My First JavaScript</h1>
+  
+  <input type="text" id="input" value="">
+  <button onclick="convert()">convert</button>
+  <p>
+    Decimal :
+    <p id="decimal"></p>
+    </p>
+    <p>
+    Hexa  :
+    <p id="hexa"></p>
+    </p>
+    <p>
+    Octa :
+    <p id="Octa"></p>
+    </p>
+    <p>
+    Binnary :
+    <p id="Binnary"></p>
+    </p>
+    
+    <script src="kalkulator.js"></script>
+    
+    </body>
+   
+    </html>
+    
